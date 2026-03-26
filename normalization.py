@@ -58,6 +58,7 @@ def process_and_save_expenses(input_files, output_csv):
 
         try:
             # FIX: Using 'file=' as the argument for the path to avoid TypeError
+            time.sleep(5) # Rate limiting to avoid API quota errors
             uploaded_file = client.files.upload(
                 file=file_path, 
                 config=types.UploadFileConfig(mime_type=mime_type)
@@ -69,6 +70,7 @@ def process_and_save_expenses(input_files, output_csv):
                 uploaded_file = client.files.get(name=uploaded_file.name)
 
             # 2. Call the Model with the Mapping Instructions
+            time.sleep(5) # Rate limiting
             response = client.models.generate_content(
                 model=MODEL_ID,
                 contents=[uploaded_file, mapping_instructions],

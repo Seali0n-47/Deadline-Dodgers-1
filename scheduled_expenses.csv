@@ -1,0 +1,9 @@
+Expense Name,Expense Amount,SevLev,Priority Score,Assigned Day,Cycle,Cash After Payment
+Quality Costs,4900.0,9.25,1.0,1,Cycle 1 (Day 1-15),595100.0
+Labor,46000.0,8.9,0.790696,4,Cycle 1 (Day 1-15),549100.0
+Machine Maintenance,11500.0,8.3,0.668457,7,Cycle 1 (Day 1-15),399600.0
+Raw Materials,138000.0,8.95,0.6,7,Cycle 1 (Day 1-15),399600.0
+Logistics,18200.0,7.95,0.536689,10,Cycle 1 (Day 1-15),381400.0
+Utilities,23100.0,7.35,0.325645,16,Cycle 2 (Day 16-25),726500.0
+Capital Expenditure,25000.0,7.35,0.321362,16,Cycle 2 (Day 16-25),726500.0
+Inventory Holding,6800.0,7.15,0.295718,16,Cycle 2 (Day 16-25),726500.0

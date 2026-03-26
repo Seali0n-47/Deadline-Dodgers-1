@@ -1,0 +1,17 @@
+Month,Invoice_ID,Category,Description,Amount_USD
+January 2026,DD-Jan-2026-01,Raw Materials,Procurement of iron ore pellets and scrap steel,125000.0
+January 2026,DD-Jan-2026-01,Labor,Direct wages and overtime for floor technicians,48500.0
+January 2026,DD-Jan-2026-01,Machine Maintenance,Emergency hydraulic seal and routine greasing,9200.0
+January 2026,DD-Jan-2026-01,Utilities,Arc furnace power usage and cooling water,21400.0
+January 2026,DD-Jan-2026-01,Inventory Holding,Finished beam storage and rust-prevention,6500.0
+January 2026,DD-Jan-2026-01,Logistics,Inbound coal and outbound delivery of coils,15750.0
+January 2026,DD-Jan-2026-01,Quality Costs,Tensile strength testing and scrap recycling,3200.0
+January 2026,DD-Jan-2026-01,CapEx,Deposit for laser-guided cutting system,12000.0
+February 2026,DD-Feb-2026-01,Raw Materials,"Limestone, coking coal, and alloy additives",138000.0
+February 2026,DD-Feb-2026-01,Labor,Standard salaries and safety milestone bonuses,46000.0
+February 2026,DD-Feb-2026-01,Machine Maintenance,Scheduled crane and conveyor servicing,11500.0
+February 2026,DD-Feb-2026-01,Utilities,Fuel for transport and facility heating,23100.0
+February 2026,DD-Feb-2026-01,Inventory Holding,Stockpile management and climate control,6800.0
+February 2026,DD-Feb-2026-01,Logistics,Interstate freight for bulk structural orders,18200.0
+February 2026,DD-Feb-2026-01,Quality Costs,X-ray weld inspections and manual rework,4900.0
+February 2026,DD-Feb-2026-01,CapEx,Final installment for automated CNC upgrade,25000.0
